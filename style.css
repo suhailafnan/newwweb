@@ -1,0 +1,88 @@
+.main-container{
+    height:270px;
+    background-color: black;
+    color:white;
+}
+.header-text{
+    text-align: center;
+    color: #b7b7b7;
+    letter-spacing: 5px;
+    font-family: Fira Sans;
+    margin-bottom: 40px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.header-text h1:hover{
+color:rgb(146, 52, 52);
+}
+.header-text p{
+    cursor: pointer;
+}
+.navbar-menu{
+    justify-content:center;
+    gap: 2rem;
+    border-top: 1px solid #b7b7b7;
+    padding-top: 20px;
+}
+.navbar-nav{
+    gap: 2rem;
+}
+.navbar-nav li:hover{
+    text-decoration: underline;
+    color: rgb(156, 46, 46);
+
+}
+
+.nav-link{
+    font-size: 18px;
+    color:#fff;
+}
+.nav-link:hover{
+    color:rgb(172, 64, 64);
+}
+.coll:hover{
+    color:rgb(172, 64, 64);
+}
+
+.main-title{
+    font-size: 60px;
+    color:#b7b7b7
+}
+*{
+    background-color: black;
+}
+.about-text{
+    font-weight: 700;
+    text-align: center;
+    margin-top:120px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    color:#b7b7b7;
+}
+.about-text-2{
+    font-weight: 700;
+    text-align: center;
+    margin-top:20px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    color:#b7b7b7;
+}
+.img2{
+    padding-bottom: 300px;
+}
+.wrapper{
+    text-align: center;
+    color:#b7b7b7;
+    margin-top: 200px;
+    margin-bottom:100px;
+}
+
+.navbar>.container-fluid{
+    justify-content: center;
+}
+.blue_line{
+    color:white;
+}
+.blue_line:hover{
+    color:rgb(133, 50, 50);
+}
